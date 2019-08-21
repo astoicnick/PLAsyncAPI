@@ -1,0 +1,14 @@
+/Users/nick/Code/learning/asyncapi/plApi/bin/Debug/netcoreapp2.2/plApi.deps.json
+/Users/nick/Code/learning/asyncapi/plApi/bin/Debug/netcoreapp2.2/plApi.runtimeconfig.json
+/Users/nick/Code/learning/asyncapi/plApi/bin/Debug/netcoreapp2.2/plApi.runtimeconfig.dev.json
+/Users/nick/Code/learning/asyncapi/plApi/bin/Debug/netcoreapp2.2/plApi.dll
+/Users/nick/Code/learning/asyncapi/plApi/bin/Debug/netcoreapp2.2/plApi.pdb
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.csprojAssemblyReference.cache
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.csproj.CoreCompileInputs.cache
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.RazorAssemblyInfo.cache
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.RazorAssemblyInfo.cs
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.AssemblyInfoInputs.cache
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.AssemblyInfo.cs
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.RazorTargetAssemblyInfo.cache
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.dll
+/Users/nick/Code/learning/asyncapi/plApi/obj/Debug/netcoreapp2.2/plApi.pdb
